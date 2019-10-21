@@ -9,22 +9,22 @@
 
 
 
-This Is The Hindi Version Of Bot [Menhera](Https://t.me/MenheraChanRoBot) Powered By [Marie](https://t.me/BanhammerMarie_bot)
+This Is The Hindi Version Of Bot [YourX](Https://t.me/YourX) Powered By [BK ](https://t.me/bksinghtech)
 
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
 simple to use.
 
-Can be found on telegram as [Menhera Chan](https://t.me/menherachanRoBot).
+Can be found on telegram as [Andhera Tech](https://t.me/AndheraOfficial).
 
-Marie and I are moderating a [support group](https://t.me/CuratorCrew), where you can ask for help setting up your
+Marie and I are moderating a [support group](https://t.me/OfficialMiui), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
 I'll also help when a database schema changes, and some table column needs to be modified/added. Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
 
-Join the [Tech channel](https://t.me/Dark_Hacker_X) For Free Knowledge. This Code Is Made By [@TheDarkW3b](https://github.com/TheDarkW3b)
+Join the [Tech channel](https://t.me/bksinghtech) For Free Knowledge. This Code Is Made By [@bksinghtech](https://github.com/bksinghtech)
 
-Alternatively, [find me on telegram](https://t.me/TheDarkW3b)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/bksinghtech)! (Keep all support questions in the support chat, where more people can help you.)
 
 ## Starting the bot.
 
