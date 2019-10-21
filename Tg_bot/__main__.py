@@ -24,6 +24,12 @@ PM_START_TEXT = """
 
 यह मेरा [डिप्लॉय कोड है](https://heroku.com/deploy?template=https://github.com/TheDarkW3b/Marie-Hindi), आप मेरी तरह ही क्लोन बना सकते हैं।
 
+अधिक कमांड के लिए /help पर क्लिक करें ...नमस्ते {}, मेरा नाम {} है! मैं यहां आपके ग्रूप को मैनज करने में आपकी सहायता करने के लिए हूं!.अगर आपके पास मुझे इस्तेमाल करने का कोई प्रश्न है तो /help पर क्लिक करे
+
+मैं ग्रुप मैनेजर बॉट हूं,मेरे [जन्मदाता](tg://user?id={}) ये है,मेरे भविष्य के अपडेट इस चैनल में डाले जाएंगे - @bksinghtech & और मेरा सपोर्ट ग्रुप @AndheraOfficial @OfficialMiUi है!
+
+मुझे  follow करे इंस्टाग्राम फेसबुक ट्विटर पर @bksinghtech @YourXOfficial
+कोई भी सहायता के लिए हमें मैसेज करे @YourX
 अधिक कमांड के लिए /help पर क्लिक करें ...
 
 Keep in mind that any changes you DO do to the source have to be on github, as per the license.
