@@ -26,8 +26,8 @@ PM_START_TEXT = """
 कोई भी सहायता के लिए हमें मैसेज करे @YourX
 अधिक कमांड के लिए /help पर क्लिक करें ...
 
-Keep in mind that any changes you DO do to the source have to be on github, as per the license.
-""" 
+
+
 
 HELP_STRINGS = """
 
